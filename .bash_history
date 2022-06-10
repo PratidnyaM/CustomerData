@@ -131,3 +131,23 @@ vi first.txt
 cat first.txt
 ls
 git status
+git add .
+git rm --cached Practice_Demo
+-f
+git -f
+clear
+git config --global user.name "PratidnyaM"
+git config --global user.email "pratidnyamanjarekar2@gmail.com"
+git clone https://github.com/PratidnyaM/Practice_Demo.git
+ls
+git status
+git add first.txt
+git commit -m "First file committed"
+git commit -m "First file committed" first.txt
+vi Second.txt
+cat Second.txt
+git status
+git add Second.txt
+git commit -m "Second File commited" Second.txt
+git status
+ls
