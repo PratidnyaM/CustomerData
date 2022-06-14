@@ -211,3 +211,14 @@ git pull
 git checkout release-x-y
 git checkout Demo
 git checkout -b new-branch demo
+git add .
+git commit -m "Some good reason"
+git push --set-upstream origin Demo
+git push --set-upstream Practice Demo
+clear
+git ls
+git config --global user.name "PratidnyaM"
+git config --global user.email "pratidnyamanjarekar2@gmail.com"
+git config --global --list
+git clone https://github.com/PratidnyaM/Practice_Demo.git
+ls
