@@ -199,3 +199,15 @@ git checkout -b Demo
 ls
 git branch
 git add .
+git commit -am "My branch is ready"
+git push origin Demo
+git clone https://github.com/PratidnyaM/Practice_Demo.git
+git branch
+git push origin Demo
+git checkout main
+git checkout Practice
+git fetch
+git pull
+git checkout release-x-y
+git checkout Demo
+git checkout -b new-branch demo
