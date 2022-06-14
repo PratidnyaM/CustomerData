@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1654851990,,"wq"
+|2,0,1655187406,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,44 @@
 # Registers:
 
 # File marks:
-'0  4  5  ~/Practice_Demo/demo1.txt
-|4,48,4,5,1654851990,"~/Practice_Demo/demo1.txt"
-'1  2  21  ~/Second.txt
-|4,49,2,21,1654846620,"~/Second.txt"
-'2  3  4  ~/first.txt
-|4,50,3,4,1654845891,"~/first.txt"
-'3  4  3  ~/sample-project/Demo/second.txt
-|4,51,4,3,1654845220,"~/sample-project/Demo/second.txt"
-'4  1  19  ~/sample-project/first.txt
-|4,52,1,19,1654843783,"~/sample-project/first.txt"
+'0  6  19  ~/Employee
+|4,48,6,19,1655187406,"~/Employee"
+'1  4  5  ~/Practice_Demo/demo1.txt
+|4,49,4,5,1654851990,"~/Practice_Demo/demo1.txt"
+'2  2  21  ~/Second.txt
+|4,50,2,21,1654846620,"~/Second.txt"
+'3  3  4  ~/first.txt
+|4,51,3,4,1654845891,"~/first.txt"
+'4  4  3  ~/sample-project/Demo/second.txt
+|4,52,4,3,1654845220,"~/sample-project/Demo/second.txt"
+'5  1  19  ~/sample-project/first.txt
+|4,53,1,19,1654843783,"~/sample-project/first.txt"
 
 # Jumplist (newest first):
+-'  6  19  ~/Employee
+|4,39,6,19,1655187406,"~/Employee"
+-'  1  0  ~/Employee
+|4,39,1,0,1655187247,"~/Employee"
 -'  4  5  ~/Practice_Demo/demo1.txt
 |4,39,4,5,1654851990,"~/Practice_Demo/demo1.txt"
+-'  4  5  ~/Practice_Demo/demo1.txt
+|4,39,4,5,1654851990,"~/Practice_Demo/demo1.txt"
+-'  1  0  ~/Practice_Demo/demo1.txt
+|4,39,1,0,1654851947,"~/Practice_Demo/demo1.txt"
 -'  1  0  ~/Practice_Demo/demo1.txt
 |4,39,1,0,1654851947,"~/Practice_Demo/demo1.txt"
 -'  2  21  ~/Second.txt
 |4,39,2,21,1654846620,"~/Second.txt"
 -'  2  21  ~/Second.txt
 |4,39,2,21,1654846620,"~/Second.txt"
+-'  2  21  ~/Second.txt
+|4,39,2,21,1654846620,"~/Second.txt"
+-'  2  21  ~/Second.txt
+|4,39,2,21,1654846620,"~/Second.txt"
+-'  1  0  ~/Second.txt
+|4,39,1,0,1654846591,"~/Second.txt"
+-'  1  0  ~/Second.txt
+|4,39,1,0,1654846591,"~/Second.txt"
 -'  1  0  ~/Second.txt
 |4,39,1,0,1654846591,"~/Second.txt"
 -'  1  0  ~/Second.txt
@@ -57,6 +75,22 @@
 |4,39,3,4,1654845891,"~/first.txt"
 -'  3  4  ~/first.txt
 |4,39,3,4,1654845891,"~/first.txt"
+-'  3  4  ~/first.txt
+|4,39,3,4,1654845891,"~/first.txt"
+-'  3  4  ~/first.txt
+|4,39,3,4,1654845891,"~/first.txt"
+-'  3  4  ~/first.txt
+|4,39,3,4,1654845891,"~/first.txt"
+-'  3  4  ~/first.txt
+|4,39,3,4,1654845891,"~/first.txt"
+-'  1  0  ~/first.txt
+|4,39,1,0,1654845875,"~/first.txt"
+-'  1  0  ~/first.txt
+|4,39,1,0,1654845875,"~/first.txt"
+-'  1  0  ~/first.txt
+|4,39,1,0,1654845875,"~/first.txt"
+-'  1  0  ~/first.txt
+|4,39,1,0,1654845875,"~/first.txt"
 -'  1  0  ~/first.txt
 |4,39,1,0,1654845875,"~/first.txt"
 -'  1  0  ~/first.txt
@@ -81,6 +115,22 @@
 |4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
 -'  4  3  ~/sample-project/Demo/second.txt
 |4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
+-'  4  3  ~/sample-project/Demo/second.txt
+|4,39,4,3,1654845220,"~/sample-project/Demo/second.txt"
 -'  1  0  ~/sample-project/Demo/second.txt
 |4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
 -'  1  0  ~/sample-project/Demo/second.txt
@@ -97,6 +147,54 @@
 |4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
 -'  1  0  ~/sample-project/Demo/second.txt
 |4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  0  ~/sample-project/Demo/second.txt
+|4,39,1,0,1654845184,"~/sample-project/Demo/second.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
+-'  1  19  ~/sample-project/first.txt
+|4,39,1,19,1654843783,"~/sample-project/first.txt"
 -'  1  19  ~/sample-project/first.txt
 |4,39,1,19,1654843783,"~/sample-project/first.txt"
 -'  1  19  ~/sample-project/first.txt
@@ -131,6 +229,14 @@
 |4,39,1,19,1654843783,"~/sample-project/first.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/Employee
+	*	1655187399	0
+	"	6	19
+	^	6	20
+	.	6	19
+	+	5	23
+	+	6	19
 
 > ~/Practice_Demo/demo1.txt
 	*	1654851987	0

@@ -260,3 +260,12 @@ git status
 git add bugs.rb
 git add squash_some_bugs
 git commit -m 'Fix some buggy code'
+git commit -a
+git status
+git push origin squash_some_bugs
+vi 
+vi Employee
+cat Employee
+git add Employee
+git commit -m "Ready employee file" Employee
+git status
