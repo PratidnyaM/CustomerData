@@ -151,3 +151,51 @@ git add Second.txt
 git commit -m "Second File commited" Second.txt
 git status
 ls
+git commit -a
+git status
+git push origin main
+git config --global user.name "PratidnyaM"
+git config --global user.email "pratidnyamanjarekar2@gmail.com"
+git clone https://github.com/PratidnyaM/Practice_Demo.git
+cd Practice_Demo
+vi demo1.txt
+cat demo1.txt
+git status
+git add demo1.txt
+git status
+git commit -m "This file is ready to committed" demo1.txt
+git status
+git push origin main
+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
+git push origin main
+git branch
+git checkout -b Practice
+git checkout main
+git branch
+git checkout main
+git merge Practice
+git checkout Practice
+git merge demo
+git branch
+git init
+git remote add origin git@github.com:PratidnyaM/Practice_Demo.git
+git pull <REMOTE> Practice
+git fetch origin
+git status
+git checkout -b master
+git checkout master
+git branch
+git push master
+git --version
+git config --global user.name "PratidnyaM"
+git config --global user.email "pratidnyamanjarekar2@gmail.com"
+git config --global --list
+git init
+ls
+touch apple.txt
+ls
+git branch
+git checkout -b Demo
+ls
+git branch
+git add .
