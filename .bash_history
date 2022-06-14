@@ -222,3 +222,41 @@ git config --global user.email "pratidnyamanjarekar2@gmail.com"
 git config --global --list
 git clone https://github.com/PratidnyaM/Practice_Demo.git
 ls
+git add .
+git commit -m "Some good reason" 
+git push origin apple.txt
+git push <remote> apple.txt
+git branch
+git push <remote> Demo
+git commit -m "COMMENT TO DESCRIBE THE INTENTION OF THE COMMIT"
+git commit -a
+git status
+git branch
+git checkout -b Practice
+git checkout Practice
+git branch
+git checkout -b Home
+git checkout Home
+git branch
+git diff
+git ststus
+git status
+git add apple.txt
+git commit -m "File is ready" apple.txt
+git push origin Home
+git push <remoyte> Home
+git checkout Home
+git merge main
+git checkout main git merge Home
+git checkout Practice
+git merge Home
+git checkout Demo
+git merge main
+Request to merge test-branch into release-13-0
+Request to merge main ~ into Demo
+Request to merge main into Demo
+git checkout -b squash_some_bugs
+git status
+git add bugs.rb
+git add squash_some_bugs
+git commit -m 'Fix some buggy code'
