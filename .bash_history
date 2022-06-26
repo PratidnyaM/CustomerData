@@ -534,3 +534,11 @@ git config --global user.name "PratidnyaM"
 git config --global user.email "pratidnyamanjarekar2@gmail.com"
 git clone https://github.com/PratidnyaM/CustomerData.git
 git branch
+git add .
+git commit -m "All changes are committed"
+git remote add origin https://github.com/PratidnyaM/CustomerData.git
+git status
+git push origin Details
+git push origin main
+git status
+git add .
