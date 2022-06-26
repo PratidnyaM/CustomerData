@@ -496,3 +496,17 @@ touch CustomerDetails.txt
 ls
 vi CustomerData.txt
 cat CustomerData.txt
+git add .
+git status
+git commit -m "Committed customers data successfully"
+git status
+git remote add origin https://github.com/PratidnyaM/Sample1.git
+git remote -v
+git push origin Branch1
+vi Customer.txt
+git branch
+git branch CustomerData
+git checkout CustomerData
+git branch
+vi customer.txt
+git branch

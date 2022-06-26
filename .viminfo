@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656252961,,"wq"
+|2,0,1656253575,,"wq"
 :q
 |2,0,1655187199,,"q"
 
@@ -27,40 +27,100 @@
 # Registers:
 
 # File marks:
-'0  17  22  ~/CustomerData.txt
-|4,48,17,22,1656252961,"~/CustomerData.txt"
-'1  10  8  ~/sample/student.txt
-|4,49,10,8,1655208390,"~/sample/student.txt"
-'2  12  0  ~/sample/student.txt
-|4,50,12,0,1655205963,"~/sample/student.txt"
-'3  9  0  ~/sample/student.txt
-|4,51,9,0,1655205963,"~/sample/student.txt"
-'4  7  0  ~/sample/first.txt
-|4,52,7,0,1655201465,"~/sample/first.txt"
-'5  7  97  ~/sample/empDetails.txt
-|4,53,7,97,1655199306,"~/sample/empDetails.txt"
-'6  26  0  ~/abc.txt
-|4,54,26,0,1655188939,"~/abc.txt"
-'7  7  97  ~/emp.txt
-|4,55,7,97,1655188764,"~/emp.txt"
-'8  7  0  ~/employeeDetails.txt
-|4,56,7,0,1655188064,"~/employeeDetails.txt"
-'9  6  19  ~/employee.txt
-|4,57,6,19,1655187587,"~/employee.txt"
+'0  24  50  ~/customer.txt
+|4,48,24,50,1656253575,"~/customer.txt"
+'1  24  51  ~/Customer.txt
+|4,49,24,51,1656253445,"~/Customer.txt"
+'2  17  22  ~/CustomerData.txt
+|4,50,17,22,1656252961,"~/CustomerData.txt"
+'3  10  8  ~/sample/student.txt
+|4,51,10,8,1655208390,"~/sample/student.txt"
+'4  12  0  ~/sample/student.txt
+|4,52,12,0,1655205963,"~/sample/student.txt"
+'5  9  0  ~/sample/student.txt
+|4,53,9,0,1655205963,"~/sample/student.txt"
+'6  7  0  ~/sample/first.txt
+|4,54,7,0,1655201465,"~/sample/first.txt"
+'7  7  97  ~/sample/empDetails.txt
+|4,55,7,97,1655199306,"~/sample/empDetails.txt"
+'8  26  0  ~/abc.txt
+|4,56,26,0,1655188939,"~/abc.txt"
+'9  7  97  ~/emp.txt
+|4,57,7,97,1655188764,"~/emp.txt"
 
 # Jumplist (newest first):
+-'  24  50  ~/customer.txt
+|4,39,24,50,1656253575,"~/customer.txt"
+-'  1  0  ~/customer.txt
+|4,39,1,0,1656253551,"~/customer.txt"
+-'  24  51  ~/Customer.txt
+|4,39,24,51,1656253445,"~/Customer.txt"
+-'  24  51  ~/Customer.txt
+|4,39,24,51,1656253445,"~/Customer.txt"
+-'  1  0  ~/Customer.txt
+|4,39,1,0,1656253382,"~/Customer.txt"
+-'  1  0  ~/Customer.txt
+|4,39,1,0,1656253382,"~/Customer.txt"
 -'  17  22  ~/CustomerData.txt
 |4,39,17,22,1656252961,"~/CustomerData.txt"
+-'  17  22  ~/CustomerData.txt
+|4,39,17,22,1656252961,"~/CustomerData.txt"
+-'  17  22  ~/CustomerData.txt
+|4,39,17,22,1656252961,"~/CustomerData.txt"
+-'  17  22  ~/CustomerData.txt
+|4,39,17,22,1656252961,"~/CustomerData.txt"
+-'  1  0  ~/CustomerData.txt
+|4,39,1,0,1656252936,"~/CustomerData.txt"
+-'  1  0  ~/CustomerData.txt
+|4,39,1,0,1656252936,"~/CustomerData.txt"
+-'  1  0  ~/CustomerData.txt
+|4,39,1,0,1656252936,"~/CustomerData.txt"
 -'  1  0  ~/CustomerData.txt
 |4,39,1,0,1656252936,"~/CustomerData.txt"
 -'  10  8  ~/sample/student.txt
 |4,39,10,8,1655208390,"~/sample/student.txt"
 -'  10  8  ~/sample/student.txt
 |4,39,10,8,1655208390,"~/sample/student.txt"
+-'  10  8  ~/sample/student.txt
+|4,39,10,8,1655208390,"~/sample/student.txt"
+-'  10  8  ~/sample/student.txt
+|4,39,10,8,1655208390,"~/sample/student.txt"
+-'  10  8  ~/sample/student.txt
+|4,39,10,8,1655208390,"~/sample/student.txt"
+-'  10  8  ~/sample/student.txt
+|4,39,10,8,1655208390,"~/sample/student.txt"
+-'  10  8  ~/sample/student.txt
+|4,39,10,8,1655208390,"~/sample/student.txt"
+-'  10  8  ~/sample/student.txt
+|4,39,10,8,1655208390,"~/sample/student.txt"
 -'  12  0  ~/sample/student.txt
 |4,39,12,0,1655208279,"~/sample/student.txt"
 -'  12  0  ~/sample/student.txt
 |4,39,12,0,1655208279,"~/sample/student.txt"
+-'  12  0  ~/sample/student.txt
+|4,39,12,0,1655208279,"~/sample/student.txt"
+-'  12  0  ~/sample/student.txt
+|4,39,12,0,1655208279,"~/sample/student.txt"
+-'  12  0  ~/sample/student.txt
+|4,39,12,0,1655208279,"~/sample/student.txt"
+-'  12  0  ~/sample/student.txt
+|4,39,12,0,1655208279,"~/sample/student.txt"
+-'  12  0  ~/sample/student.txt
+|4,39,12,0,1655208279,"~/sample/student.txt"
+-'  12  0  ~/sample/student.txt
+|4,39,12,0,1655208279,"~/sample/student.txt"
+-'  9  0  ~/sample/student.txt
+|4,39,9,0,1655205963,"~/sample/student.txt"
+-'  9  0  ~/sample/student.txt
+|4,39,9,0,1655205963,"~/sample/student.txt"
+-'  9  0  ~/sample/student.txt
+|4,39,9,0,1655205963,"~/sample/student.txt"
+-'  9  0  ~/sample/student.txt
+|4,39,9,0,1655205963,"~/sample/student.txt"
+-'  9  0  ~/sample/student.txt
+|4,39,9,0,1655205963,"~/sample/student.txt"
+-'  9  0  ~/sample/student.txt
+|4,39,9,0,1655205963,"~/sample/student.txt"
 -'  9  0  ~/sample/student.txt
 |4,39,9,0,1655205963,"~/sample/student.txt"
 -'  9  0  ~/sample/student.txt
@@ -73,6 +133,78 @@
 |4,39,1,0,1655205906,"~/sample/student.txt"
 -'  1  0  ~/sample/student.txt
 |4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  1  0  ~/sample/student.txt
+|4,39,1,0,1655205906,"~/sample/student.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
+-'  7  0  ~/sample/first.txt
+|4,39,7,0,1655201465,"~/sample/first.txt"
 -'  7  0  ~/sample/first.txt
 |4,39,7,0,1655201465,"~/sample/first.txt"
 -'  7  0  ~/sample/first.txt
@@ -105,152 +237,34 @@
 |4,39,1,0,1655201413,"~/sample/first.txt"
 -'  1  0  ~/sample/first.txt
 |4,39,1,0,1655201413,"~/sample/first.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  7  97  ~/sample/empDetails.txt
-|4,39,7,97,1655199306,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  1  0  ~/sample/empDetails.txt
-|4,39,1,0,1655199178,"~/sample/empDetails.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  26  0  ~/abc.txt
-|4,39,26,0,1655188939,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
--'  1  0  ~/abc.txt
-|4,39,1,0,1655188903,"~/abc.txt"
+-'  1  0  ~/sample/first.txt
+|4,39,1,0,1655201413,"~/sample/first.txt"
+-'  1  0  ~/sample/first.txt
+|4,39,1,0,1655201413,"~/sample/first.txt"
+-'  1  0  ~/sample/first.txt
+|4,39,1,0,1655201413,"~/sample/first.txt"
+-'  1  0  ~/sample/first.txt
+|4,39,1,0,1655201413,"~/sample/first.txt"
+-'  1  0  ~/sample/first.txt
+|4,39,1,0,1655201413,"~/sample/first.txt"
+-'  1  0  ~/sample/first.txt
+|4,39,1,0,1655201413,"~/sample/first.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/customer.txt
+	*	1656253574	0
+	"	24	50
+	^	24	51
+	.	24	51
+	+	24	51
+
+> ~/Customer.txt
+	*	1656253443	0
+	"	24	51
+	^	24	52
+	.	24	50
+	+	24	50
 
 > ~/CustomerData.txt
 	*	1656252955	0
