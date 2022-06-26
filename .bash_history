@@ -510,3 +510,17 @@ git checkout CustomerData
 git branch
 vi customer.txt
 git branch
+git add .
+git status
+git commit -m "Commit all customers data"
+git status
+git push origin CustomerData
+git clone https://github.com/PratidnyaM/CustomerData.git
+ls
+git branch Details
+git checkout Details
+git branch
+vi Customer.txt
+cat Customer.txt
+git add .
+git remote add origin https://github.com/PratidnyaM/CustomerData.git
