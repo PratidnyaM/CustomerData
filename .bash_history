@@ -524,3 +524,13 @@ vi Customer.txt
 cat Customer.txt
 git add .
 git remote add origin https://github.com/PratidnyaM/CustomerData.git
+git add .
+git status
+git commit -m "Customer data is successfully committed"
+git status
+git push origin Details
+clear
+git config --global user.name "PratidnyaM"
+git config --global user.email "pratidnyamanjarekar2@gmail.com"
+git clone https://github.com/PratidnyaM/CustomerData.git
+git branch
